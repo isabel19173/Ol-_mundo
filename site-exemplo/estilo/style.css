@@ -13,3 +13,25 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px #ffc6c6;
 }
+h1{
+    font-size: 2em;
+    color: #644A07;
+}
+h2{
+    font-size: 1.5em;
+    color: #644A07;
+}
+img.lado{
+    float:right;
+    width: 100px;
+    height: 100px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color:#644A07;
+}
+a:hover{
+    text-decoration: underline;
+    color:#4d3906;
+}
